@@ -1,0 +1,21 @@
+{
+  "declare": {
+    "struct": "Declare_.+",
+    "union": "Declare_.+",
+    "types": "Declare_.+",
+    "enum": "Declare_.+",
+    "function": "Declare_.+"
+  },
+  "global":{
+    "struct": "Global_.+",
+    "union": "Global_.+",
+    "enum": "Global_.+",
+    "other vars": "Global_.+"
+  },
+  "local":{
+    "struct": "Local_.+",
+    "union": "Local_.+",
+    "enum": "Local_.+",
+    "other vars": "Local_.+"
+  }
+}
